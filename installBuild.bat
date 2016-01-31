@@ -1,7 +1,10 @@
 @echo off
 if not exist z: (subst z: E:\View)
 
-for /f "delims=" %%a in ('dir  "\\was-cc2-tech\cm_bld1\10.3.0000.0*" /b /o:d')  do (set CASTORNO=%%~nxa)
+REM for /f "delims=" %%a in ('dir  "\\was-cc2-tech\cm_bld1\10.3.0000.0*" /b /o:d')  do (set CASTORNO=%%~nxa)
+
+for /f "delims=" %%a in ('dir  "\\was-cc2-tech\cm_bld1\10.3.0000.0*" /b /o:-d')  do (if exist \\was-cc2-tech\cm_bld1\%%~nxa\DEBUG\bin\updateok.txt (set CASTORNO=%%~nxa & goto :over))
+:over
 echo %CASTORNO%
 if not exist "z:\BIN\updateok.txt" goto :Installnewbuild
 
