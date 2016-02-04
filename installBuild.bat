@@ -3,9 +3,9 @@ if not exist z: (subst z: E:\View)
 
 REM for /f "delims=" %%a in ('dir  "\\was-cc2-tech\cm_bld1\10.3.0000.0*" /b /o:d')  do (set CASTORNO=%%~nxa)
 
-for /f "delims=" %%a in ('dir  "\\was-cc2-tech\cm_bld1\10.3.0000.0*" /b /o:-d')  do (if exist \\was-cc2-tech\cm_bld1\%%~nxa\DEBUG\bin\updateok.txt (set CASTORNO=%%~nxa & goto :over))
+for /f "delims=" %%a in ('dir  "\\was-cc2-tech\cm_bld1\10.3.00*" /b /o:-d')  do (if exist \\was-cc2-tech\cm_bld1\%%~nxa\DEBUG\bin\updateok.txt (set CASTORNO=%%~nxa& goto :over))
 :over
-echo %CASTORNO%
+echo \\was-cc2-tech\cm_bld1\%CASTORNO%\DEBUG\BIN
 if not exist "z:\BIN\updateok.txt" goto :Installnewbuild
 
 z:\bin\mstrver mstrsvr|findstr "file_version" > e:\version.txt
@@ -21,7 +21,7 @@ if %CASTORNO% neq %localno% (goto :Installnewbuild)
 :Installnewbuild
 echo "---------start to install new build now----------------"
 
-if not exist "\\was-cc2-tech\cm_bld1\%CASTORNO%\DEBUG\BIN\updateok.txt"  goto :debugnotready
+rem if not exist "\\was-cc2-tech\cm_bld1\%CASTORNO%\DEBUG\BIN\updateok.txt"  goto :debugnotready
 goto :iserver
 :debugnotready
 echo "-------------Debug is not ready!!!----------------"
@@ -36,12 +36,13 @@ taskkill /f /im m8mulprc_64.exe /t
 taskkill /f /im madbquerytool.exe /t
 taskkill /f /im mjmulprc_32.exe /t
 taskkill /f /im mjmulprc_64.exe /t
+pushd z:\
+if exist z:\bin (rename BIN BIN_%localno% & goto :copy)
+echo "==========Copy start=========="
+:copy
+xcopy /ey \\was-cc2-tech\cm_bld1\%CASTORNO%\DEBUG\BIN z:\BIN\ 1>nul
 
-pushd z:
-rename BIN BIN_%localno%
-xcopy /s \\was-cc2-tech\cm_bld1\%CASTORNO%\DEBUG\BIN z:\BIN\ /e/y
-
-
+echo "==========Copy end=========="
 :Configweb
 
 c:\tomcat\bin\shutdown.bat
@@ -52,6 +53,8 @@ rd "%CATALINA_HOME%\webapps\MicroStrategy" /s/q
 copy \\was-cc2-tech\cm_bld1\%CASTORNO%\bin\MicroStrategy.war %CATALINA_HOME%\webapps\
 
 c:\tomcat\bin\startup.bat
+
+
 :reg
 pushd Z:\3rdParty
 @CALL Register
