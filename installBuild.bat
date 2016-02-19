@@ -8,14 +8,17 @@ for /f "delims=" %%a in ('dir  "\\was-cc2-tech\cm_bld1\10.3.00*" /b /o:-d')  do 
 echo \\was-cc2-tech\cm_bld1\%CASTORNO%\DEBUG\BIN
 if not exist "z:\BIN\updateok.txt" goto :Installnewbuild
 
-z:\bin\mstrver mstrsvr|findstr "file_version" > e:\version.txt
+REM z:\bin\mstrver mstrsvr|findstr "file_version" > e:\version.txt
 
-for /f "delims=\>< tokens=3" %%i in (e:\version.txt) do (set localno=%%i & goto :b)
+REM for /f "delims=\>< tokens=3" %%i in (e:\version.txt) do (set localno=%%i & goto :b)
+
+for /f "delims=\>< tokens=3" %%i in ('z:\bin\mstrver mstrsvr ^|findstr "file_version"') do (set localno=%%i & goto :b)
+
 :b
 echo %localno%
 
 if %CASTORNO% neq %localno% (goto :Installnewbuild)
-:eof
+goto :eof
 
 
 :Installnewbuild
@@ -47,7 +50,7 @@ echo "==========Copy end=========="
 
 c:\tomcat\bin\shutdown.bat
 
-if not exist \\was-cc2-tech\cm_bld1\%CASTORNO%\bin\MicroStrategy.war goto :eof
+if not exist \\was-cc2-tech\cm_bld1\%CASTORNO%\bin\MicroStrategy.war goto :checkSpace
 mv "%CATALINA_HOME%\webapps\MicroStrategy" %CATALINA_HOME%\MicroStrategy_%localno%
 rd "%CATALINA_HOME%\webapps\MicroStrategy" /s/q
 copy \\was-cc2-tech\cm_bld1\%CASTORNO%\bin\MicroStrategy.war %CATALINA_HOME%\webapps\
@@ -63,5 +66,18 @@ pushd Z:\BuildScripts
 @CALL SetInstallRegistry
 @CALL perl SetRegistry.pl
 @CALL perl BldDocCli.pl -d 908
+
+
+REM ========Check disk space===========
+:checkSpace
+for /f "delims=" %%a in ('wmic LogicalDisk where "Caption='E:'" get FreeSpace /value ^| findstr "Free"')  do (set size=%%a)
+set /a free=%size:~10,-10%+0
+echo %free%
+if %free% gtr 30 goto :eof
+REM ==============Delete old builds==============
+for /f "delims=" %%a in ('dir  "z:\bin_*" /b /o:-d')  do (set old=Z:\%%a\)
+echo ====Start to delete folder %old% ===========
+rd %old% /s/q
+echo ====Folder %old% has been deleted===========
 
 :eof
