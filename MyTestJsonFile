@@ -1,0 +1,1226 @@
+[
+  {
+    "State": "Alabama",
+    "State_Latitude": 32.6144,
+    "State_Longitude": -86.6807,
+    "Quarter": "Q1",
+    "Arbitrary_Number": 60,
+    "Profit": 174.46
+  },
+  {
+    "State": "Alaska",
+    "State_Latitude": 64.0003,
+    "State_Longitude": -150,
+    "Quarter": "Q1",
+    "Arbitrary_Number": 136,
+    "Profit": 97.26
+  },
+  {
+    "State": "Arizona",
+    "State_Latitude": 34.1679,
+    "State_Longitude": -111.931,
+    "Quarter": "Q1",
+    "Arbitrary_Number": 197,
+    "Profit": 64.68
+  },
+  {
+    "State": "Arkansas",
+    "State_Latitude": 34.7519,
+    "State_Longitude": -92.1305,
+    "Quarter": "Q1",
+    "Arbitrary_Number": 25,
+    "Profit": 39.7
+  },
+  {
+    "State": "California",
+    "State_Latitude": 37.2719,
+    "State_Longitude": -119.27,
+    "Quarter": "Q1",
+    "Arbitrary_Number": 181,
+    "Profit": 583.89
+  },
+  {
+    "State": "Colorado",
+    "State_Latitude": 38.9979,
+    "State_Longitude": -105.551,
+    "Quarter": "Q1",
+    "Arbitrary_Number": 115,
+    "Profit": 76.7
+  },
+  {
+    "State": "Connecticut",
+    "State_Latitude": 41.5155,
+    "State_Longitude": -72.7575,
+    "Quarter": "Q1",
+    "Arbitrary_Number": 136,
+    "Profit": 170.94
+  },
+  {
+    "State": "Delaware",
+    "State_Latitude": 39.1453,
+    "State_Longitude": -75.4188,
+    "Quarter": "Q1",
+    "Arbitrary_Number": 125,
+    "Profit": 9.11
+  },
+  {
+    "State": "District of Columbia",
+    "State_Latitude": 38.8938,
+    "State_Longitude": -77.0147,
+    "Quarter": "Q1",
+    "Arbitrary_Number": 126,
+    "Profit": 97.26
+  },
+  {
+    "State": "Florida",
+    "State_Latitude": 27.66,
+    "State_Longitude": -81.51,
+    "Quarter": "Q1",
+    "Arbitrary_Number": 13,
+    "Profit": 223.7
+  },
+  {
+    "State": "Georgia",
+    "State_Latitude": 32.6783,
+    "State_Longitude": -83.2229,
+    "Quarter": "Q1",
+    "Arbitrary_Number": 28,
+    "Profit": 73.79
+  },
+  {
+    "State": "Idaho",
+    "State_Latitude": 45.4944,
+    "State_Longitude": -114.143,
+    "Quarter": "Q1",
+    "Arbitrary_Number": 191,
+    "Profit": 7.23
+  },
+  {
+    "State": "Illinois",
+    "State_Latitude": 39.7393,
+    "State_Longitude": -89.5041,
+    "Quarter": "Q1",
+    "Arbitrary_Number": 114,
+    "Profit": 332.08
+  },
+  {
+    "State": "Indiana",
+    "State_Latitude": 39.7662,
+    "State_Longitude": -86.4411,
+    "Quarter": "Q1",
+    "Arbitrary_Number": 15,
+    "Profit": 85.48
+  },
+  {
+    "State": "Iowa",
+    "State_Latitude": 41.9382,
+    "State_Longitude": -93.3899,
+    "Quarter": "Q1",
+    "Arbitrary_Number": 190,
+    "Profit": 68.46
+  },
+  {
+    "State": "Hawaii",
+    "State_Latitude": 20.7503,
+    "State_Longitude": -156.5,
+    "Quarter": "Q1",
+    "Arbitrary_Number": 198,
+    "Profit": 30.67
+  },
+  {
+    "State": "Kansas",
+    "State_Latitude": 38.4981,
+    "State_Longitude": -98.3202,
+    "Quarter": "Q1",
+    "Arbitrary_Number": 5,
+    "Profit": 32.16
+  },
+  {
+    "State": "Kentucky",
+    "State_Latitude": 37.8224,
+    "State_Longitude": -85.6909,
+    "Quarter": "Q1",
+    "Arbitrary_Number": 29,
+    "Profit": 31.93
+  },
+  {
+    "State": "Louisiana",
+    "State_Latitude": 30.9742,
+    "State_Longitude": -91.4299,
+    "Quarter": "Q1",
+    "Arbitrary_Number": 137,
+    "Profit": 70
+  },
+  {
+    "State": "Maine",
+    "State_Latitude": 45.2623,
+    "State_Longitude": -69.0125,
+    "Quarter": "Q1",
+    "Arbitrary_Number": 144,
+    "Profit": 30.67
+  },
+  {
+    "State": "Maryland",
+    "State_Latitude": 38.8176,
+    "State_Longitude": -77.2682,
+    "Quarter": "Q1",
+    "Arbitrary_Number": 5,
+    "Profit": 136.42
+  },
+  {
+    "State": "Massachusetts",
+    "State_Latitude": 42.0624,
+    "State_Longitude": -71.7182,
+    "Quarter": "Q1",
+    "Arbitrary_Number": 16,
+    "Profit": 143.87
+  },
+  {
+    "State": "Michigan",
+    "State_Latitude": 44.31,
+    "State_Longitude": -85.6,
+    "Quarter": "Q1",
+    "Arbitrary_Number": 147,
+    "Profit": 161.24
+  },
+  {
+    "State": "Minnesota",
+    "State_Latitude": 46.4423,
+    "State_Longitude": -93.3659,
+    "Quarter": "Q1",
+    "Arbitrary_Number": 16,
+    "Profit": 70.89
+  },
+  {
+    "State": "Mississippi",
+    "State_Latitude": 32.5851,
+    "State_Longitude": -89.8737,
+    "Quarter": "Q1",
+    "Arbitrary_Number": 135,
+    "Profit": 65.58
+  },
+  {
+    "State": "Missouri",
+    "State_Latitude": 38.2589,
+    "State_Longitude": -92.4366,
+    "Quarter": "Q1",
+    "Arbitrary_Number": 130,
+    "Profit": 96.86
+  },
+  {
+    "State": "Montana",
+    "State_Latitude": 46.6795,
+    "State_Longitude": -110.045,
+    "Quarter": "Q1",
+    "Arbitrary_Number": 146,
+    "Profit": 32.42
+  },
+  {
+    "State": "Nebraska",
+    "State_Latitude": 41.5008,
+    "State_Longitude": -99.6809,
+    "Quarter": "Q1",
+    "Arbitrary_Number": 50,
+    "Profit": 21.21
+  },
+  {
+    "State": "Nevada",
+    "State_Latitude": 38.502,
+    "State_Longitude": -117.023,
+    "Quarter": "Q1",
+    "Arbitrary_Number": 139,
+    "Profit": 34.55
+  },
+  {
+    "State": "New Hampshire",
+    "State_Latitude": 44.0012,
+    "State_Longitude": -71.6329,
+    "Quarter": "Q1",
+    "Arbitrary_Number": 27,
+    "Profit": 32.14
+  },
+  {
+    "State": "New Jersey",
+    "State_Latitude": 40.1432,
+    "State_Longitude": -74.7267,
+    "Quarter": "Q1",
+    "Arbitrary_Number": 66,
+    "Profit": 293.47
+  },
+  {
+    "State": "New Mexico",
+    "State_Latitude": 34.1661,
+    "State_Longitude": -106.026,
+    "Quarter": "Q1",
+    "Arbitrary_Number": 180,
+    "Profit": 15.58
+  },
+  {
+    "State": "New York",
+    "State_Latitude": 40.7146,
+    "State_Longitude": -74.0071,
+    "Quarter": "Q1",
+    "Arbitrary_Number": 77,
+    "Profit": 430.7
+  },
+  {
+    "State": "North Carolina",
+    "State_Latitude": 35.2142,
+    "State_Longitude": -79.8911,
+    "Quarter": "Q1",
+    "Arbitrary_Number": 83,
+    "Profit": 71.4
+  },
+  {
+    "State": "North Dakota",
+    "State_Latitude": 47.4678,
+    "State_Longitude": -100.302,
+    "Quarter": "Q1",
+    "Arbitrary_Number": 59,
+    "Profit": 8.5
+  },
+  {
+    "State": "Ohio",
+    "State_Latitude": 40.1903,
+    "State_Longitude": -82.6695,
+    "Quarter": "Q1",
+    "Arbitrary_Number": 186,
+    "Profit": 148.99
+  },
+  {
+    "State": "Oklahoma",
+    "State_Latitude": 35.3091,
+    "State_Longitude": -98.717,
+    "Quarter": "Q1",
+    "Arbitrary_Number": 196,
+    "Profit": 42.22
+  },
+  {
+    "State": "Oregon",
+    "State_Latitude": 44.1429,
+    "State_Longitude": -120.515,
+    "Quarter": "Q1",
+    "Arbitrary_Number": 191,
+    "Profit": 43.99
+  },
+  {
+    "State": "Pennsylvania",
+    "State_Latitude": 40.9947,
+    "State_Longitude": -77.6045,
+    "Quarter": "Q1",
+    "Arbitrary_Number": 195,
+    "Profit": 280.82
+  },
+  {
+    "State": "Rhode Island",
+    "State_Latitude": 41.5826,
+    "State_Longitude": -71.5036,
+    "Quarter": "Q1",
+    "Arbitrary_Number": 25,
+    "Profit": 49.35
+  },
+  {
+    "State": "South Carolina",
+    "State_Latitude": 33.6265,
+    "State_Longitude": -80.9474,
+    "Quarter": "Q1",
+    "Arbitrary_Number": 89,
+    "Profit": 82.09
+  },
+  {
+    "State": "South Dakota",
+    "State_Latitude": 44.2126,
+    "State_Longitude": -100.247,
+    "Quarter": "Q1",
+    "Arbitrary_Number": 114,
+    "Profit": 60.51
+  },
+  {
+    "State": "Tennessee",
+    "State_Latitude": 35.8307,
+    "State_Longitude": -85.9787,
+    "Quarter": "Q1",
+    "Arbitrary_Number": 5,
+    "Profit": 119.26
+  },
+  {
+    "State": "Texas",
+    "State_Latitude": 31.1689,
+    "State_Longitude": -100.077,
+    "Quarter": "Q1",
+    "Arbitrary_Number": 70,
+    "Profit": 332.62
+  },
+  {
+    "State": "Utah",
+    "State_Latitude": 39.4997,
+    "State_Longitude": -111.547,
+    "Quarter": "Q1",
+    "Arbitrary_Number": 92,
+    "Profit": 16.28
+  },
+  {
+    "State": "Vermont",
+    "State_Latitude": 43.8717,
+    "State_Longitude": -72.4517,
+    "Quarter": "Q1",
+    "Arbitrary_Number": 50,
+    "Profit": 34.75
+  },
+  {
+    "State": "Virginia",
+    "State_Latitude": 38.0034,
+    "State_Longitude": -79.4585,
+    "Quarter": "Q1",
+    "Arbitrary_Number": 164,
+    "Profit": 102.22
+  },
+  {
+    "State": "Washington",
+    "State_Latitude": 47.27,
+    "State_Longitude": -120.8,
+    "Quarter": "Q1",
+    "Arbitrary_Number": 32,
+    "Profit": 78.79
+  },
+  {
+    "State": "West Virginia",
+    "State_Latitude": 38.9197,
+    "State_Longitude": -80.1817,
+    "Quarter": "Q1",
+    "Arbitrary_Number": 115,
+    "Profit": 35.44
+  },
+  {
+    "State": "Wisconsin",
+    "State_Latitude": 44.7864,
+    "State_Longitude": -89.8472,
+    "Quarter": "Q1",
+    "Arbitrary_Number": 122,
+    "Profit": 131.31
+  },
+  {
+    "State": "Wyoming",
+    "State_Latitude": 43.0003,
+    "State_Longitude": -107.554,
+    "Quarter": "Q1",
+    "Arbitrary_Number": 107,
+    "Profit": 8.48
+  },
+  {
+    "State": "Alabama",
+    "State_Latitude": 32.6144,
+    "State_Longitude": -86.6807,
+    "Quarter": "Q2",
+    "Arbitrary_Number": 60,
+    "Profit": 174.46
+  },
+  {
+    "State": "Alaska",
+    "State_Latitude": 64.0003,
+    "State_Longitude": -150,
+    "Quarter": "Q2",
+    "Arbitrary_Number": 136,
+    "Profit": 97.26
+  },
+  {
+    "State": "Arizona",
+    "State_Latitude": 34.1679,
+    "State_Longitude": -111.931,
+    "Quarter": "Q2",
+    "Arbitrary_Number": 197,
+    "Profit": 64.68
+  },
+  {
+    "State": "Arkansas",
+    "State_Latitude": 34.7519,
+    "State_Longitude": -92.1305,
+    "Quarter": "Q2",
+    "Arbitrary_Number": 25,
+    "Profit": 39.7
+  },
+  {
+    "State": "California",
+    "State_Latitude": 37.2719,
+    "State_Longitude": -119.27,
+    "Quarter": "Q2",
+    "Arbitrary_Number": 181,
+    "Profit": 583.89
+  },
+  {
+    "State": "Colorado",
+    "State_Latitude": 38.9979,
+    "State_Longitude": -105.551,
+    "Quarter": "Q2",
+    "Arbitrary_Number": 115,
+    "Profit": 76.7
+  },
+  {
+    "State": "Connecticut",
+    "State_Latitude": 41.5155,
+    "State_Longitude": -72.7575,
+    "Quarter": "Q2",
+    "Arbitrary_Number": 136,
+    "Profit": 170.94
+  },
+  {
+    "State": "Delaware",
+    "State_Latitude": 39.1453,
+    "State_Longitude": -75.4188,
+    "Quarter": "Q2",
+    "Arbitrary_Number": 125,
+    "Profit": 9.11
+  },
+  {
+    "State": "District of Columbia",
+    "State_Latitude": 38.8938,
+    "State_Longitude": -77.0147,
+    "Quarter": "Q2",
+    "Arbitrary_Number": 126,
+    "Profit": 97.26
+  },
+  {
+    "State": "Florida",
+    "State_Latitude": 27.66,
+    "State_Longitude": -81.51,
+    "Quarter": "Q2",
+    "Arbitrary_Number": 13,
+    "Profit": 223.7
+  },
+  {
+    "State": "Georgia",
+    "State_Latitude": 32.6783,
+    "State_Longitude": -83.2229,
+    "Quarter": "Q2",
+    "Arbitrary_Number": 28,
+    "Profit": 73.79
+  },
+  {
+    "State": "Idaho",
+    "State_Latitude": 45.4944,
+    "State_Longitude": -114.143,
+    "Quarter": "Q2",
+    "Arbitrary_Number": 191,
+    "Profit": 7.23
+  },
+  {
+    "State": "Illinois",
+    "State_Latitude": 39.7393,
+    "State_Longitude": -89.5041,
+    "Quarter": "Q2",
+    "Arbitrary_Number": 114,
+    "Profit": 332.08
+  },
+  {
+    "State": "Indiana",
+    "State_Latitude": 39.7662,
+    "State_Longitude": -86.4411,
+    "Quarter": "Q2",
+    "Arbitrary_Number": 15,
+    "Profit": 85.48
+  },
+  {
+    "State": "Iowa",
+    "State_Latitude": 41.9382,
+    "State_Longitude": -93.3899,
+    "Quarter": "Q2",
+    "Arbitrary_Number": 190,
+    "Profit": 68.46
+  },
+  {
+    "State": "Hawaii",
+    "State_Latitude": 20.7503,
+    "State_Longitude": -156.5,
+    "Quarter": "Q2",
+    "Arbitrary_Number": 198,
+    "Profit": 30.67
+  },
+  {
+    "State": "Kansas",
+    "State_Latitude": 38.4981,
+    "State_Longitude": -98.3202,
+    "Quarter": "Q2",
+    "Arbitrary_Number": 5,
+    "Profit": 32.16
+  },
+  {
+    "State": "Kentucky",
+    "State_Latitude": 37.8224,
+    "State_Longitude": -85.6909,
+    "Quarter": "Q2",
+    "Arbitrary_Number": 29,
+    "Profit": 31.93
+  },
+  {
+    "State": "Louisiana",
+    "State_Latitude": 30.9742,
+    "State_Longitude": -91.4299,
+    "Quarter": "Q2",
+    "Arbitrary_Number": 137,
+    "Profit": 70
+  },
+  {
+    "State": "Maine",
+    "State_Latitude": 45.2623,
+    "State_Longitude": -69.0125,
+    "Quarter": "Q2",
+    "Arbitrary_Number": 144,
+    "Profit": 30.67
+  },
+  {
+    "State": "Maryland",
+    "State_Latitude": 38.8176,
+    "State_Longitude": -77.2682,
+    "Quarter": "Q2",
+    "Arbitrary_Number": 5,
+    "Profit": 136.42
+  },
+  {
+    "State": "Massachusetts",
+    "State_Latitude": 42.0624,
+    "State_Longitude": -71.7182,
+    "Quarter": "Q2",
+    "Arbitrary_Number": 16,
+    "Profit": 143.87
+  },
+  {
+    "State": "Michigan",
+    "State_Latitude": 44.31,
+    "State_Longitude": -85.6,
+    "Quarter": "Q2",
+    "Arbitrary_Number": 147,
+    "Profit": 161.24
+  },
+  {
+    "State": "Minnesota",
+    "State_Latitude": 46.4423,
+    "State_Longitude": -93.3659,
+    "Quarter": "Q2",
+    "Arbitrary_Number": 16,
+    "Profit": 70.89
+  },
+  {
+    "State": "Mississippi",
+    "State_Latitude": 32.5851,
+    "State_Longitude": -89.8737,
+    "Quarter": "Q2",
+    "Arbitrary_Number": 135,
+    "Profit": 65.58
+  },
+  {
+    "State": "Missouri",
+    "State_Latitude": 38.2589,
+    "State_Longitude": -92.4366,
+    "Quarter": "Q2",
+    "Arbitrary_Number": 130,
+    "Profit": 96.86
+  },
+  {
+    "State": "Montana",
+    "State_Latitude": 46.6795,
+    "State_Longitude": -110.045,
+    "Quarter": "Q2",
+    "Arbitrary_Number": 146,
+    "Profit": 32.42
+  },
+  {
+    "State": "Nebraska",
+    "State_Latitude": 41.5008,
+    "State_Longitude": -99.6809,
+    "Quarter": "Q2",
+    "Arbitrary_Number": 50,
+    "Profit": 21.21
+  },
+  {
+    "State": "Nevada",
+    "State_Latitude": 38.502,
+    "State_Longitude": -117.023,
+    "Quarter": "Q2",
+    "Arbitrary_Number": 139,
+    "Profit": 34.55
+  },
+  {
+    "State": "New Hampshire",
+    "State_Latitude": 44.0012,
+    "State_Longitude": -71.6329,
+    "Quarter": "Q2",
+    "Arbitrary_Number": 27,
+    "Profit": 32.14
+  },
+  {
+    "State": "New Jersey",
+    "State_Latitude": 40.1432,
+    "State_Longitude": -74.7267,
+    "Quarter": "Q2",
+    "Arbitrary_Number": 66,
+    "Profit": 293.47
+  },
+  {
+    "State": "New Mexico",
+    "State_Latitude": 34.1661,
+    "State_Longitude": -106.026,
+    "Quarter": "Q2",
+    "Arbitrary_Number": 180,
+    "Profit": 15.58
+  },
+  {
+    "State": "New York",
+    "State_Latitude": 40.7146,
+    "State_Longitude": -74.0071,
+    "Quarter": "Q2",
+    "Arbitrary_Number": 77,
+    "Profit": 430.7
+  },
+  {
+    "State": "North Carolina",
+    "State_Latitude": 35.2142,
+    "State_Longitude": -79.8911,
+    "Quarter": "Q2",
+    "Arbitrary_Number": 83,
+    "Profit": 71.4
+  },
+  {
+    "State": "North Dakota",
+    "State_Latitude": 47.4678,
+    "State_Longitude": -100.302,
+    "Quarter": "Q2",
+    "Arbitrary_Number": 59,
+    "Profit": 8.5
+  },
+  {
+    "State": "Ohio",
+    "State_Latitude": 40.1903,
+    "State_Longitude": -82.6695,
+    "Quarter": "Q2",
+    "Arbitrary_Number": 186,
+    "Profit": 148.99
+  },
+  {
+    "State": "Oklahoma",
+    "State_Latitude": 35.3091,
+    "State_Longitude": -98.717,
+    "Quarter": "Q2",
+    "Arbitrary_Number": 196,
+    "Profit": 42.22
+  },
+  {
+    "State": "Oregon",
+    "State_Latitude": 44.1429,
+    "State_Longitude": -120.515,
+    "Quarter": "Q2",
+    "Arbitrary_Number": 191,
+    "Profit": 43.99
+  },
+  {
+    "State": "Pennsylvania",
+    "State_Latitude": 40.9947,
+    "State_Longitude": -77.6045,
+    "Quarter": "Q2",
+    "Arbitrary_Number": 195,
+    "Profit": 280.82
+  },
+  {
+    "State": "Rhode Island",
+    "State_Latitude": 41.5826,
+    "State_Longitude": -71.5036,
+    "Quarter": "Q2",
+    "Arbitrary_Number": 25,
+    "Profit": 49.35
+  },
+  {
+    "State": "South Carolina",
+    "State_Latitude": 33.6265,
+    "State_Longitude": -80.9474,
+    "Quarter": "Q2",
+    "Arbitrary_Number": 89,
+    "Profit": 82.09
+  },
+  {
+    "State": "South Dakota",
+    "State_Latitude": 44.2126,
+    "State_Longitude": -100.247,
+    "Quarter": "Q2",
+    "Arbitrary_Number": 114,
+    "Profit": 60.51
+  },
+  {
+    "State": "Tennessee",
+    "State_Latitude": 35.8307,
+    "State_Longitude": -85.9787,
+    "Quarter": "Q2",
+    "Arbitrary_Number": 5,
+    "Profit": 119.26
+  },
+  {
+    "State": "Texas",
+    "State_Latitude": 31.1689,
+    "State_Longitude": -100.077,
+    "Quarter": "Q2",
+    "Arbitrary_Number": 70,
+    "Profit": 332.62
+  },
+  {
+    "State": "Utah",
+    "State_Latitude": 39.4997,
+    "State_Longitude": -111.547,
+    "Quarter": "Q2",
+    "Arbitrary_Number": 92,
+    "Profit": 16.28
+  },
+  {
+    "State": "Vermont",
+    "State_Latitude": 43.8717,
+    "State_Longitude": -72.4517,
+    "Quarter": "Q2",
+    "Arbitrary_Number": 50,
+    "Profit": 34.75
+  },
+  {
+    "State": "Virginia",
+    "State_Latitude": 38.0034,
+    "State_Longitude": -79.4585,
+    "Quarter": "Q2",
+    "Arbitrary_Number": 164,
+    "Profit": 102.22
+  },
+  {
+    "State": "Washington",
+    "State_Latitude": 47.27,
+    "State_Longitude": -120.8,
+    "Quarter": "Q2",
+    "Arbitrary_Number": 32,
+    "Profit": 78.79
+  },
+  {
+    "State": "West Virginia",
+    "State_Latitude": 38.9197,
+    "State_Longitude": -80.1817,
+    "Quarter": "Q2",
+    "Arbitrary_Number": 115,
+    "Profit": 35.44
+  },
+  {
+    "State": "Wisconsin",
+    "State_Latitude": 44.7864,
+    "State_Longitude": -89.8472,
+    "Quarter": "Q2",
+    "Arbitrary_Number": 122,
+    "Profit": 131.31
+  },
+  {
+    "State": "Wyoming",
+    "State_Latitude": 43.0003,
+    "State_Longitude": -107.554,
+    "Quarter": "Q2",
+    "Arbitrary_Number": 107,
+    "Profit": 8.48
+  },
+  {
+    "State": "Alabama",
+    "State_Latitude": 32.6144,
+    "State_Longitude": -86.6807,
+    "Quarter": "Q3",
+    "Arbitrary_Number": 60,
+    "Profit": -174.46
+  },
+  {
+    "State": "Alaska",
+    "State_Latitude": 64.0003,
+    "State_Longitude": -150,
+    "Quarter": "Q3",
+    "Arbitrary_Number": 136,
+    "Profit": -97.26
+  },
+  {
+    "State": "Arizona",
+    "State_Latitude": 34.1679,
+    "State_Longitude": -111.931,
+    "Quarter": "Q3",
+    "Arbitrary_Number": 197,
+    "Profit": -64.68
+  },
+  {
+    "State": "Arkansas",
+    "State_Latitude": 34.7519,
+    "State_Longitude": -92.1305,
+    "Quarter": "Q3",
+    "Arbitrary_Number": 25,
+    "Profit": -39.7
+  },
+  {
+    "State": "California",
+    "State_Latitude": 37.2719,
+    "State_Longitude": -119.27,
+    "Quarter": "Q3",
+    "Arbitrary_Number": 181,
+    "Profit": -583.89
+  },
+  {
+    "State": "Colorado",
+    "State_Latitude": 38.9979,
+    "State_Longitude": -105.551,
+    "Quarter": "Q3",
+    "Arbitrary_Number": 115,
+    "Profit": -76.7
+  },
+  {
+    "State": "Connecticut",
+    "State_Latitude": 41.5155,
+    "State_Longitude": -72.7575,
+    "Quarter": "Q3",
+    "Arbitrary_Number": 136,
+    "Profit": -170.94
+  },
+  {
+    "State": "Delaware",
+    "State_Latitude": 39.1453,
+    "State_Longitude": -75.4188,
+    "Quarter": "Q3",
+    "Arbitrary_Number": 125,
+    "Profit": -9.11
+  },
+  {
+    "State": "District of Columbia",
+    "State_Latitude": 38.8938,
+    "State_Longitude": -77.0147,
+    "Quarter": "Q3",
+    "Arbitrary_Number": 126,
+    "Profit": -97.26
+  },
+  {
+    "State": "Florida",
+    "State_Latitude": 27.66,
+    "State_Longitude": -81.51,
+    "Quarter": "Q3",
+    "Arbitrary_Number": 13,
+    "Profit": -223.7
+  },
+  {
+    "State": "Georgia",
+    "State_Latitude": 32.6783,
+    "State_Longitude": -83.2229,
+    "Quarter": "Q3",
+    "Arbitrary_Number": 28,
+    "Profit": -73.79
+  },
+  {
+    "State": "Idaho",
+    "State_Latitude": 45.4944,
+    "State_Longitude": -114.143,
+    "Quarter": "Q3",
+    "Arbitrary_Number": 191,
+    "Profit": -7.23
+  },
+  {
+    "State": "Illinois",
+    "State_Latitude": 39.7393,
+    "State_Longitude": -89.5041,
+    "Quarter": "Q3",
+    "Arbitrary_Number": 114,
+    "Profit": -332.08
+  },
+  {
+    "State": "Indiana",
+    "State_Latitude": 39.7662,
+    "State_Longitude": -86.4411,
+    "Quarter": "Q3",
+    "Arbitrary_Number": 15,
+    "Profit": -85.48
+  },
+  {
+    "State": "Iowa",
+    "State_Latitude": 41.9382,
+    "State_Longitude": -93.3899,
+    "Quarter": "Q3",
+    "Arbitrary_Number": 190,
+    "Profit": -68.46
+  },
+  {
+    "State": "Hawaii",
+    "State_Latitude": 20.7503,
+    "State_Longitude": -156.5,
+    "Quarter": "Q3",
+    "Arbitrary_Number": 198,
+    "Profit": -30.67
+  },
+  {
+    "State": "Kansas",
+    "State_Latitude": 38.4981,
+    "State_Longitude": -98.3202,
+    "Quarter": "Q3",
+    "Arbitrary_Number": 5,
+    "Profit": -32.16
+  },
+  {
+    "State": "Kentucky",
+    "State_Latitude": 37.8224,
+    "State_Longitude": -85.6909,
+    "Quarter": "Q3",
+    "Arbitrary_Number": 29,
+    "Profit": -31.93
+  },
+  {
+    "State": "Louisiana",
+    "State_Latitude": 30.9742,
+    "State_Longitude": -91.4299,
+    "Quarter": "Q3",
+    "Arbitrary_Number": 137,
+    "Profit": -70
+  },
+  {
+    "State": "Maine",
+    "State_Latitude": 45.2623,
+    "State_Longitude": -69.0125,
+    "Quarter": "Q3",
+    "Arbitrary_Number": 144,
+    "Profit": -30.67
+  },
+  {
+    "State": "Maryland",
+    "State_Latitude": 38.8176,
+    "State_Longitude": -77.2682,
+    "Quarter": "Q3",
+    "Arbitrary_Number": 5,
+    "Profit": -136.42
+  },
+  {
+    "State": "Massachusetts",
+    "State_Latitude": 42.0624,
+    "State_Longitude": -71.7182,
+    "Quarter": "Q3",
+    "Arbitrary_Number": 16,
+    "Profit": -143.87
+  },
+  {
+    "State": "Michigan",
+    "State_Latitude": 44.31,
+    "State_Longitude": -85.6,
+    "Quarter": "Q3",
+    "Arbitrary_Number": 147,
+    "Profit": -161.24
+  },
+  {
+    "State": "Minnesota",
+    "State_Latitude": 46.4423,
+    "State_Longitude": -93.3659,
+    "Quarter": "Q3",
+    "Arbitrary_Number": 16,
+    "Profit": -70.89
+  },
+  {
+    "State": "Mississippi",
+    "State_Latitude": 32.5851,
+    "State_Longitude": -89.8737,
+    "Quarter": "Q3",
+    "Arbitrary_Number": 135,
+    "Profit": -65.58
+  },
+  {
+    "State": "Missouri",
+    "State_Latitude": 38.2589,
+    "State_Longitude": -92.4366,
+    "Quarter": "Q3",
+    "Arbitrary_Number": 130,
+    "Profit": -96.86
+  },
+  {
+    "State": "Montana",
+    "State_Latitude": 46.6795,
+    "State_Longitude": -110.045,
+    "Quarter": "Q3",
+    "Arbitrary_Number": 146,
+    "Profit": -32.42
+  },
+  {
+    "State": "Nebraska",
+    "State_Latitude": 41.5008,
+    "State_Longitude": -99.6809,
+    "Quarter": "Q3",
+    "Arbitrary_Number": 50,
+    "Profit": -21.21
+  },
+  {
+    "State": "Nevada",
+    "State_Latitude": 38.502,
+    "State_Longitude": -117.023,
+    "Quarter": "Q3",
+    "Arbitrary_Number": 139,
+    "Profit": -34.55
+  },
+  {
+    "State": "New Hampshire",
+    "State_Latitude": 44.0012,
+    "State_Longitude": -71.6329,
+    "Quarter": "Q3",
+    "Arbitrary_Number": 27,
+    "Profit": -32.14
+  },
+  {
+    "State": "New Jersey",
+    "State_Latitude": 40.1432,
+    "State_Longitude": -74.7267,
+    "Quarter": "Q3",
+    "Arbitrary_Number": 66,
+    "Profit": -293.47
+  },
+  {
+    "State": "New Mexico",
+    "State_Latitude": 34.1661,
+    "State_Longitude": -106.026,
+    "Quarter": "Q3",
+    "Arbitrary_Number": 180,
+    "Profit": -15.58
+  },
+  {
+    "State": "New York",
+    "State_Latitude": 40.7146,
+    "State_Longitude": -74.0071,
+    "Quarter": "Q3",
+    "Arbitrary_Number": 77,
+    "Profit": -430.7
+  },
+  {
+    "State": "North Carolina",
+    "State_Latitude": 35.2142,
+    "State_Longitude": -79.8911,
+    "Quarter": "Q3",
+    "Arbitrary_Number": 83,
+    "Profit": -71.4
+  },
+  {
+    "State": "North Dakota",
+    "State_Latitude": 47.4678,
+    "State_Longitude": -100.302,
+    "Quarter": "Q3",
+    "Arbitrary_Number": 59,
+    "Profit": -8.5
+  },
+  {
+    "State": "Ohio",
+    "State_Latitude": 40.1903,
+    "State_Longitude": -82.6695,
+    "Quarter": "Q3",
+    "Arbitrary_Number": 186,
+    "Profit": -148.99
+  },
+  {
+    "State": "Oklahoma",
+    "State_Latitude": 35.3091,
+    "State_Longitude": -98.717,
+    "Quarter": "Q3",
+    "Arbitrary_Number": 196,
+    "Profit": -42.22
+  },
+  {
+    "State": "Oregon",
+    "State_Latitude": 44.1429,
+    "State_Longitude": -120.515,
+    "Quarter": "Q3",
+    "Arbitrary_Number": 191,
+    "Profit": -43.99
+  },
+  {
+    "State": "Pennsylvania",
+    "State_Latitude": 40.9947,
+    "State_Longitude": -77.6045,
+    "Quarter": "Q3",
+    "Arbitrary_Number": 195,
+    "Profit": -280.82
+  },
+  {
+    "State": "Rhode Island",
+    "State_Latitude": 41.5826,
+    "State_Longitude": -71.5036,
+    "Quarter": "Q3",
+    "Arbitrary_Number": 25,
+    "Profit": -49.35
+  },
+  {
+    "State": "South Carolina",
+    "State_Latitude": 33.6265,
+    "State_Longitude": -80.9474,
+    "Quarter": "Q3",
+    "Arbitrary_Number": 89,
+    "Profit": -82.09
+  },
+  {
+    "State": "South Dakota",
+    "State_Latitude": 44.2126,
+    "State_Longitude": -100.247,
+    "Quarter": "Q3",
+    "Arbitrary_Number": 114,
+    "Profit": -60.51
+  },
+  {
+    "State": "Tennessee",
+    "State_Latitude": 35.8307,
+    "State_Longitude": -85.9787,
+    "Quarter": "Q3",
+    "Arbitrary_Number": 5,
+    "Profit": -119.26
+  },
+  {
+    "State": "Texas",
+    "State_Latitude": 31.1689,
+    "State_Longitude": -100.077,
+    "Quarter": "Q3",
+    "Arbitrary_Number": 70,
+    "Profit": -332.62
+  },
+  {
+    "State": "Utah",
+    "State_Latitude": 39.4997,
+    "State_Longitude": -111.547,
+    "Quarter": "Q3",
+    "Arbitrary_Number": 92,
+    "Profit": -16.28
+  },
+  {
+    "State": "Vermont",
+    "State_Latitude": 43.8717,
+    "State_Longitude": -72.4517,
+    "Quarter": "Q3",
+    "Arbitrary_Number": 50,
+    "Profit": -34.75
+  },
+  {
+    "State": "Virginia",
+    "State_Latitude": 38.0034,
+    "State_Longitude": -79.4585,
+    "Quarter": "Q3",
+    "Arbitrary_Number": 164,
+    "Profit": -102.22
+  },
+  {
+    "State": "Washington",
+    "State_Latitude": 47.27,
+    "State_Longitude": -120.8,
+    "Quarter": "Q3",
+    "Arbitrary_Number": 32,
+    "Profit": -78.79
+  },
+  {
+    "State": "West Virginia",
+    "State_Latitude": 38.9197,
+    "State_Longitude": -80.1817,
+    "Quarter": "Q3",
+    "Arbitrary_Number": 115,
+    "Profit": -35.44
+  },
+  {
+    "State": "Wisconsin",
+    "State_Latitude": 44.7864,
+    "State_Longitude": -89.8472,
+    "Quarter": "Q3",
+    "Arbitrary_Number": 122,
+    "Profit": -131.31
+  },
+  {
+    "State": "Wyoming",
+    "State_Latitude": 43.0003,
+    "State_Longitude": -107.554,
+    "Quarter": "Q3",
+    "Arbitrary_Number": 107,
+    "Profit": -8.48
+  }
+]
